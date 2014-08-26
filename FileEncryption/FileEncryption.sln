@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileEncryption.WebApp", "PgpTest\FileEncryption.WebApp.csproj", "{72BF392F-6B09-4CC1-8F6C-44735B2CF62B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileEncryption.WebApp", "FileEncryption\FileEncryption.WebApp.csproj", "{72BF392F-6B09-4CC1-8F6C-44735B2CF62B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
